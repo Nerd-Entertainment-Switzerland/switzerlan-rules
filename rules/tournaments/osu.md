@@ -20,8 +20,8 @@ This year's osu! Switzerlan tourney will be played in a 1v1 format. Players will
 ### Qualifiers
 The tournament starts with a qualifier system. The players will play in self-reffed lobbies. Each player must create their own lobby according to the "Lobby Settings" section. Upon entering the lobby, the player must immediately send their match link to a tournament administrator. The match link can be seen in the chat when you create the multiplayer lobby.
 
-The advancing players will be determined by adding the combined normalized scores across the qualifier pool and comparing them to the other players'. The top 16 players will advance.
-Players will be only be allowed a single playthrough of the mappool. The qualifier lobbies must be finished by 21:30.
+The advancing players will be determined by adding the combined normalized scores across the qualifier pool and comparing them to the other players'. The top 8 players will advance.
+Players will be only be allowed a single playthrough of the mappool. The qualifier lobbies must be finished by 21:00.
 
 #### Map Rules
 
@@ -31,16 +31,16 @@ Once started, the map must be played until the end. The qualifier score of a map
 
 The tournament continues in a double-elimination format. Players who lose a match continue playing in the loser's bracket. Participants who lose a match in the loser's bracket will be eliminated from the tournament.
 
-After both brackets have concluded, the winners of the two brackets compete in the grand finals at the Herofest osu! booth. If the player coming from the losers' bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, they win the tournament.
+After both brackets have concluded, the winners compete in the grand finals. If the player coming from the losers' bracket wins, an additional match will be played. However, if the player from the winner's bracket wins, they win the tournament.
 
 Map pool size, match length, and the number of bans for each round are as follows:
 
 | Round        | Size    | Best of | Ban #   |
 |--------------|---------|---------|---------|
-| Qualifier    | 12 maps | /       | /       | 
-| Ro16/8, L1-2 | 15 maps | 9       | 1       |
-| Ro4/2, L3-6  | 19 maps | 11      | 2       |
-| Grand Finals | 22 maps | 13      | 2       |
+| Qualifier    | 11 maps | /       | /       | 
+| Ro8/4, L1-2  | 15 maps | 9       | 1       |
+| Finals, L3-4 | 18 maps | 11      | 2       |
+| Grand Finals | 20 maps | 13      | 2       |
 
 #### Mappool
 
@@ -48,7 +48,9 @@ The mappool will be available on Tuesday the 22nd of September. The tournament s
 
 The freemod pool allows the player to pick hidden, hardrock, or both mods unless specified otherwise. Additional score granted by the mod multipliers will count. 
 
-In the forcedmod pools such as EZ, HD, HR, and DT, players are **not** allowed to pick additional mods.
+In the mod pools such as HD, HR, and DT, players are **not** allowed to pick additional mods.
+
+The forcemod pool “FO X” forces you and your opponent to pick a mod for the map. You are allowed to pick HD, HR, or HDHR, but you must pick at least one of these mods. You only pick the mod for yourself, your opponent will pick their own mod-s.
 
 #### Tiebreaker
 
@@ -82,8 +84,8 @@ Players will also have the option to force a mod onto the freemod pool for the w
 
 | Round        | Forcemod Picks|
 |--------------|---------------|
-| Ro16/8, L1-2 | 1             |
-| Ro4/2, L3-6  | 1             |
+| Ro8/4, L1-2  | 1             |
+| Finals, L3-4 | 1             |
 | Grand Finals | 2             |
 
 #### Bans
@@ -107,28 +109,28 @@ Behavior during and between matches underlies the global osu! and [switzerLAN ru
 
 | Setting       | Value                             |
 |---------------|-----------------------------------|
-| Name          | CHLAN25: (Player 1) vs (Player 2) |
+| Name          | CHLAN26: (Player 1) vs (Player 2) |
 | Game mode     | osu! std                          |
 | Team mode     | Head to Head                      |
 | Win condition | score v2                          |
 
 To create your lobby, proceed in this manner:
 
-Dm the user **BanchoBot** on osu the following message: !mp make CHLAN25: (Player 1) vs (Player 2) 
+Dm the user **BanchoBot** on osu the following message: !mp make CHLAN26: (Player 1) vs (Player 2) 
 
 #### Qualifier
 
 
 | Setting       | Value                               |
 |---------------|-------------------------------------|
-| Name          | CHLAN25: (Player) vs (Qualifiers)   |
+| Name          | CHLAN26: (Player) vs (Qualifiers)   |
 | Game mode     | osu! std                            |
 | Team mode     | Head to Head                        |
 | Win condition | score v2                            |
 
 To create your lobby, proceed in this manner:
 
-Dm the user **BanchoBot** on osu the following message: !mp make CHLAN25: (Player 1) vs (Qualifiers) 
+Dm the user **BanchoBot** on osu the following message: !mp make CHLAN26: (Player 1) vs (Qualifiers) 
 
 ## Questions
 
