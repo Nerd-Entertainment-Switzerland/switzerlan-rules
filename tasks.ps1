@@ -17,7 +17,7 @@ $contentFolder = "$websiteFolder/content"
 
 $nl = [System.Environment]::NewLine
 
-$finalPages = ('Main Rulebook','osu!','Rocket League','Hearthstone','Overwatch 2','Apex Legends','Valorant','Apex Legends', 'Counter Strike 2', 'League of Legends')
+$finalPages = ('Main Rulebook','SESF Standards','osu!','Rocket League','Hearthstone','Overwatch 2','Apex Legends','Valorant','Apex Legends', 'Counter Strike 2', 'League of Legends')
 
 ####
 # Shared Functions
@@ -63,6 +63,14 @@ function GenerateMainRulebook() {
     return GeneratePage "Main Rulebook" $pageContent
 }
 
+function GenerateSESFStandards() {
+
+$pageContent = [IO.File]::ReadAllText("$ruleFolder/general/z_SESF_Standards.md")
+
+return GeneratePage "SESF Standards" $pageContent
+
+}
+
 function GetTournamentPages() {
     $pages = foreach ($rulebook in Get-ChildItem "$ruleFolder/tournaments") {
         $fullName = (Get-Content -First 1 $rulebook.FullName).Substring(2)
@@ -96,6 +104,7 @@ headless = true
 - **General**
 
 - [Main Rules]({{< relref "/" >}})
+- [SESF Standards]({{< relref "/rules/sesf-standards" >}})
 
 <br />
 
@@ -112,6 +121,8 @@ switch ($TaskName) {
         CreateContentSkeleton
 
         GenerateMainRulebook > "$contentFolder/_index.md"
+
+        GenerateSESFStandards > "$contentFolder/rules/z_SESF-Standards.md"
 
         $pages = GetTournamentPages
         foreach ($page in $pages) {
