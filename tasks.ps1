@@ -122,7 +122,7 @@ switch ($TaskName) {
 
         GenerateMainRulebook > "$contentFolder/_index.md"
 
-        GenerateSESFStandards > "$contentFolder/rules/z_SESF-Standards.md"
+        GenerateSESFStandards > "$contentFolder/rules/sesf-standards.md"
 
         $pages = GetTournamentPages
         foreach ($page in $pages) {
