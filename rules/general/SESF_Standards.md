@@ -254,4 +254,4 @@ The languages of the procedure are English, French, German and Italian.
 [^1]: Cf. Regarding private corruption: Art. 322octies et Art. 322novies Swiss Penal Code.
 [^2]: Cf. ESIC code of conduct and the directives of the Federal Sports Department, which can be found here.
 [^3]: Cf. Regarding private corruption: Art. 322octies et Art. 322novies Swiss Penal Code.
-[^4]: See the ESIC PROHIBITED LIST and the ESIC ANTI-DOPING CODE.
+[^4]: See the ESIC PROHIBITED LIST and the ESIC ANTI-DOPING CODE-
