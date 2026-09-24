@@ -62,13 +62,13 @@ The map pool will be the same as the ones available in competitive mode 2 weeks 
 
 These are:
 
-* Breeze
+* Abyss
 * Ascent
 * Haven
-* Fracture
+* Summit
 * Lotus
 * Split
-* perl
+* Sunset
 
 ### Map Selection Process
 
