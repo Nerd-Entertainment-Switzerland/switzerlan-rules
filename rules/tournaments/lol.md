@@ -33,7 +33,7 @@ The tournament is played in the following stages:
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Swiss Rounds     | Swiss Rounds in Best-of-1 format, played separately within each division over 5 rounds. Pro teams only play against other Pro teams, and Fun teams only play against other Fun teams. Each division's resulting ranking determines seeding for its own Elimination bracket.                                                                                                                          |
 | Pro Elimination  | The top 8 teams of the Pro division's Swiss Rounds advance to a Best-of-3 Fearless double-elimination bracket. The Grand Final is played as a single Best-of-3 Fearless series with no bracket reset.                                                                                                                                                                                                             |
-| Fun Elimination  | All teams of the Fun division advance to a single-elimination bracket, seeded by their Swiss Rounds ranking. The Swiss Rounds ranking is used only for seeding, no team is eliminated from the Fun Elimination by its Swiss result. The bracket size is the next power of two above the number of participating teams, with the highest seeds receiving byes. Round of 64 (only played with 33 or more teams), Round of 32, and Round of 16 are Best-of-1, Quarterfinals onward are Best-of-3 Fearless. |
+| Fun Elimination  | All teams of the Fun division advance to a single-elimination bracket, seeded by their Swiss Rounds ranking. The Swiss Rounds ranking is used only for seeding, no team is eliminated from the Fun Elimination by its Swiss result. The bracket size is the next power of two above the number of participating teams, with the highest seeds receiving byes. Round of 64 (only played with 33 or more teams) and Round of 32 are Best-of-1, Round of 16 onward are Best-of-3 Fearless. |
 
 ### Side Selection
 
@@ -87,15 +87,30 @@ All players must be in the lobby within a 15-minute check-in window before each 
 
 ### Saturday, 03.10.2026
 
-| Time  | Event                                                                                |
-| ----- | ------------------------------------------------------------------------------------- |
-| 10:00 | Swiss Round 5                                                                        |
-| 12:00 | Pro Winners Quarterfinals (Bo3) / Fun Round of 64                                    |
-| 13:00 | Fun Round of 32                                                                      |
-| 14:00 | Fun Round of 16                                                                      |
-| 15:00 | Pro Winners Semifinals / Pro Losers Round 1 / Fun Quarterfinals (all Bo3)            |
-| 19:00 | Pro Winners Final / Pro Losers Round 2 / Fun Semifinals (all Bo3)                    |
-| 22:00 | Pro Losers Round 3                                                                   |
+Swiss Round 5 is shared by both divisions. After that, the Pro and Fun brackets run on separate schedules.
+
+**Pro bracket**
+
+| Time  | Event                                       |
+| ----- | -------------------------------------------- |
+| 10:00 | Swiss Round 5                               |
+| 12:00 | Winners Quarterfinals (Bo3)                 |
+| 15:00 | Winners Semifinals / Losers Round 1 (Bo3)   |
+| 18:00 | Dinner break                                |
+| 19:00 | Winners Final / Losers Round 2 (Bo3)        |
+| 22:00 | Losers Round 3 (Bo3)                        |
+
+**Fun bracket**
+
+| Time  | Event                                       |
+| ----- | -------------------------------------------- |
+| 10:00 | Swiss Round 5                               |
+| 12:00 | Round of 64 (Bo1, only if 33 or more Fun teams) |
+| 13:00 | Round of 32 (Bo1)                           |
+| 14:00 | Round of 16 (Bo3)                           |
+| 17:00 | Dinner break                                |
+| 18:00 | Quarterfinals (Bo3)                         |
+| 21:00 | Semifinals (Bo3)                            |
 
 ### Sunday, 04.10.2026
 
