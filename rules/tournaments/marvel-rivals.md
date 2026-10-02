@@ -108,7 +108,7 @@ Substitutions can only take place after each map and not during an ongoing map.
 
 The first meeting for the team captain or manager (or a player if the team has neither) will be a briefing on Friday evening at **19:00**.
 
-The tournament itself will start one hour later, at **20:00**.
+The tournament itself will start one hour later, at **19:30**.
 
 All players must be present at the tournament venue at the start of the tournament.
 
