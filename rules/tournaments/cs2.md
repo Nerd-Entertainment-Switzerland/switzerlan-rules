@@ -12,14 +12,13 @@ The rules may be available in several languages. If the individual versions diff
 
 ### Tournament Platform
 
-The official tournament platform for this tournament is Toornament.com.
+The official tournament platform for this tournament is ibexgaming.org .
 
 Please make sure that each Team is registered until 30.09.2026 12:00 CEST. Via The Google Forms provided by the Tournament Admin
 
-All matches will be played Locally Hosted Server.
+The tournament will be played on ibexgaming.org. While the platform supports LAN servers, the SwitzerLAN does not have CS2 servers on site. The tournament will be played servers which are physically located in Bern.
 
-The official tournament page will be shared via the main communication channel established in the main rulebook.
-
+The official tournament page will be [Switzerlan 5v5](https://ibexgaming.org/circuit/switzerlan/2578540116531455999)
 ### Tournament Format
 
 The tournament format is determined by the final number of confirmed teams.
@@ -268,30 +267,28 @@ The Grand Final is played as Bo5.
 
 ---
 
-### 29–32 Teams
+### 25–32 Teams
 
 The tournament is played in the following stages:
 
 | Stage | Type | Format | Description |
 |---|---|---|---|
-| Stage 1 | Swiss Stage | Bo1 / Bo3 | Five Swiss rounds are played. Regular matches are Bo1. Qualification and Elimination matches are Bo3. Teams reaching 3 wins secure qualification for the Playoffs, while teams reaching 3 losses are eliminated from further Swiss matches. After the Swiss Stage, the top 16 teams advance to the Playoffs. |
-| Stage 2 | Single Elimination Playoffs | Bo3 / Bo5 | The top 16 teams from the final Swiss standings advance to the Playoffs. All Playoff matches are Bo3 except the Grand Final, which is Bo5. |
+| Stage 1 | Swiss Stage | Bo1 | Five Swiss rounds are played. Matches are Bo1. |
+| Stage 2 | Single Elimination Playoffs | Bo3 / Bo5 | The top 12 teams from the final Swiss standings advance to the Playoffs. All Playoff matches are Bo3 except the Grand Final, which is Bo5. |
 
 A total of five Swiss rounds will be played.
 
-Teams that achieve **three wins** are guaranteed qualification for the Playoffs. Teams that reach **three losses** are eliminated from further Swiss matches.
+After completion of the Swiss Stage, the **top 12 teams according to the final Swiss Stage standings** advance to the Single Elimination Playoffs.
 
-After completion of the Swiss Stage, the **top 16 teams according to the final Swiss Stage standings** advance to the Single Elimination Playoffs.
+If fewer than 12 teams reach three wins due to the number of participating teams or the required BYE structure, the remaining Playoff spot or spots will be awarded to the highest-ranked teams that finished with a **2–3 record**. These teams are ranked according to the final Swiss Stage seeding, using the **Mid-stage Seed Calculation** defined in this Rulebook.
 
-If fewer than 16 teams reach three wins due to the number of participating teams or the required BYE structure, the remaining Playoff spot or spots will be awarded to the highest-ranked teams that finished with a **2–3 record**. These teams are ranked according to the final Swiss Stage seeding, using the **Mid-stage Seed Calculation** defined in this Rulebook.
+This exception is used only where necessary to complete the Top 12 Playoff bracket.
 
-This exception is used only where necessary to complete the Top 16 Playoff bracket.
-
-The Playoff bracket is seeded from #1 to #16 according to the final Swiss Stage seeding.
+The Playoff bracket is seeded from #1 to #12 according to the final Swiss Stage seeding.
 
 ### Swiss Pairing Procedures
 
-#### 16 Team Swiss Pairing Procedure
+#### 12 Team Swiss Pairing Procedure
 
 Teams play against opponents of identical W-L record.
 
@@ -348,20 +345,44 @@ Match-ups for the first round of the Swiss format are as follows:
   - 3 vs. 6
 - All matches are best of three
 
-#### 29–32 Team Swiss Pairing Procedure
+#### 25–32 Team Swiss Pairing Procedure
 
-For tournaments with 29–32 participating teams, the Swiss Stage consists of five rounds.
+For tournaments with 25–32 participating teams, the Swiss Stage consists of five rounds.
 
-Teams reaching three match wins secure qualification for the Playoffs. Teams reaching three match losses are eliminated from further Swiss matches.
+All teams play together in one Swiss Stage.
 
-After the Swiss Stage has been completed, the top 16 teams in the final Swiss standings advance to the Playoffs. If fewer than 16 teams reached three wins, the remaining Playoff spot or spots are awarded to the highest-ranked teams with a 2–3 record according to the final Swiss Stage seeding.
+• The Swiss Stage consists of 5 rounds
+• Every team plays all 5 rounds
+• Matches are BO1
+• Teams are paired against opponents based on their current tournament record
+• After Round 5, all teams are ranked based on their final Swiss record
+• Top 12 advance directly to the Playoffs
+
+Swiss Tiebreakers
+Teams with the same match record will be ranked using the following order:
+
+Buchholz Score
+
+Based on the final records of the opponents each team faced.
+
+Head-to-Head Result
+
+If tied teams played against each other, the winner of the direct match is ranked higher.
+
+Head-to-Head Round Difference
+
+Used for multi-team ties where the direct results form a cycle. Only the matches between the tied teams are considered.
+
+Pre-Tournament Seeding
+
+If the tie is still unresolved, the higher Pre-Tournament Seed is ranked higher.
 
 ##### Initial Swiss Match-ups
 
 For 32 participating teams, the first-round match-ups are:
 | Swiss Round 1 |
 |---:|
-| 1 vs. 17 |
+| Seed #1 vs. 17 |
 | Seed #2 vs. 18 |
 | Seed #3 vs. 19 |
 | Seed #4 vs. 20 |
@@ -378,7 +399,7 @@ For 32 participating teams, the first-round match-ups are:
 | Seed #15 vs. 31 |
 | Seed #16 vs. 32 |
 
-For 29–31 participating teams, BYEs may be required. BYEs are assigned according to the pre-tournament seeding and the Swiss pairing procedure.
+For 25/27/29/31 participating teams, BYEs may be required. BYEs are assigned according to the pre-tournament seeding and the Swiss pairing procedure.
 
 ##### Subsequent Swiss Rounds
 
@@ -417,10 +438,9 @@ The pairing priorities are checked from top to bottom. The first priority that d
 
 For **Round 4**, this table is applied separately to:
 
-- the twelve teams with a **2–1 record**, and
-- the twelve teams with a **1–2 record**.
+- the teams with same record.
 
-For **Round 5**, this table is applied to the twelve teams with a **2–2 record**.
+For **Round 5**, this table is applied to the teams with same record.
 
 Teams must not play the same opponent twice during the Swiss Stage if a valid alternative pairing is available.
 
@@ -428,20 +448,33 @@ If none of the listed pairing priorities can be used without creating a rematch,
 
 Pairing adjustments must preserve the high-seed versus low-seed principle as closely as possible.
 
-##### Top 16 Single Elimination Playoff Bracket
+##### Top 12 Single Elimination Playoff Bracket
 
-After the Swiss Stage, qualified teams are seeded from #1 to #16 according to their final Swiss Stage seeding.
+After the Swiss Stage, qualified teams are seeded from #1 to #12 according to their final Swiss Stage seeding.
 
-- Bracket A:
-  - Seed #1 vs Seed #16
-  - Seed #8 vs Seed #9
-  - Seed #4 vs Seed #13
+- Bracket:
+Playoffs Playins
+
   - Seed #5 vs Seed #12
-- Bracket B:
-  - Seed #2 vs Seed #15
-  - Seed #7 vs Seed #10
-  - Seed #3 vs Seed #14
   - Seed #6 vs Seed #11
+  - Seed #7 vs Seed #10
+  - Seed #8 vs Seed #9
+
+Quarter Finals
+
+  - Seed #1 vs Winner Game 1
+  - Seed #3 vs Winner Game 1
+  - Seed #2 vs Winner Game 2
+  - Seed #4 vs Winner Game 4
+
+Semi Finals
+
+  - Winner Game #1 vs Winner Game #2
+  - Winner Game #3 vs Winner Game #4
+
+Grandfinal/3rd Place Game
+Final BO5 on Stage
+3rd Place Bo3
 
 The bracket is fixed once the Playoff seeds have been determined. Teams are not reseeded after any Playoff round.
 
