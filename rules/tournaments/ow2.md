@@ -31,8 +31,8 @@ Playoffs' number of teams may be adapted to the number of participants.
 
 ## Schedule
 
-The first appointment for the team representative will be the briefing on Friday at 21:30.
-The tournament itself will start one hour later at 22:30.
+The first appointment for the team representative will be the briefing on Friday at 19:30.
+The tournament itself will start one hour later at 20:30.
 All players must be at the location at the start of the tournament.
 
 ## Game Settings
